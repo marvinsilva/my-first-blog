@@ -6,7 +6,7 @@ Web Development to create a blog using Python3 and Django~=2.2.4
 ```
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 ```
 
 ## What is Django Girls?
